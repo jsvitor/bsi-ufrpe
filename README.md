@@ -2,6 +2,9 @@
 
 Bacharelado em Sistemas de Informação - Universidade Rural Federal de Peranambuco
 
+<center>
+  <img src="./images/ufrpe-rgb-plano.png" width="300px"/>
+</center>
 
 ## Fundamentos de Sistemas de Informação
 Livro de apoio a disciplina:
