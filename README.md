@@ -199,3 +199,15 @@ COMPUTAÇÃO VERDE: Programa que diz respeito à eficiência e responsabilidade 
 
 
 </details>
+
+## Fundamentos de Problemas Computacionais
+
+<details>
+	<summary>💜🚀</summary>
+	
+### Material de apoio a disciplina
+	
+* [Repositório da disciplina](https://github.com/jsvitor/fundamentals-of-computational-problems)
+	
+</details>
+
