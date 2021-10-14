@@ -2,9 +2,12 @@
 
 Bacharelado em Sistemas de Informação - Universidade Rural Federal de Peranambuco
 
-<center>
-  <img src="./images/ufrpe-rgb-plano.png" width="300px"/>
-</center>
+<!-- logo -->
+<p align="center">
+  <img src="./images/ufrpe-rgb-plano.png" width="150px" />
+</p>
+
+
 
 ## Fundamentos de Sistemas de Informação
 Livro de apoio a disciplina:
@@ -196,3 +199,15 @@ COMPUTAÇÃO VERDE: Programa que diz respeito à eficiência e responsabilidade 
 
 
 </details>
+
+## Fundamentos de Problemas Computacionais
+
+<details>
+	<summary>💜🚀</summary>
+	
+### Material de apoio a disciplina
+	
+* [Repositório da disciplina](https://github.com/jsvitor/fundamentals-of-computational-problems)
+	
+</details>
+
