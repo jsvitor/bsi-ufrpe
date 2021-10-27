@@ -1,6 +1,6 @@
 # Bacharelado em Sistemas de Informação (BSI)
 
-Bacharelado em Sistemas de Informação - Universidade Rural Federal de Peranambuco
+Bacharelado em Sistemas de Informação - Universidade Federal Rural de Peranambuco
 
 <!-- logo -->
 <p align="center">
