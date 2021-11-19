@@ -7,7 +7,7 @@ Bacharelado em Sistemas de Informação - Universidade Federal Rural de Peranamb
   <img src="./images/ufrpe-rgb-plano.png" width="150px" />
 </p>
 
-
+> [Mapa mental que estou desenvolvendo sobre SI](https://whimsical.com/sistemas-de-informacao-how-i-see-it-MApE4wUDo78kKihoMfj8jb)
 
 ## [Fundamentos de Sistemas de Informação](https://github.com/jsvitor/fsi-bsi-ufrpe)
 
