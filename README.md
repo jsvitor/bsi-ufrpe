@@ -25,3 +25,4 @@ Livro de apoio a disciplina:
 ## [Introdução ao Armazenamento e Análise de Dados](https://github.com/jsvitor/iaad-bsi-ufrpe)
 
 
+![matriz curricular](https://raw.githubusercontent.com/jsvitor/bsi-ufrpe/main/images/matriz-curricular-com-equivalencias.png)
